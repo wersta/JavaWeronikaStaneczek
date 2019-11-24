@@ -1,4 +1,4 @@
-pl.java.lab.Controller
-pl.java.lab.Dec2Hex2DecConverter
-pl.java.lab.Model
-pl.java.lab.View
+pl.java.controller
+pl.java.dec2hex2decconverter
+pl.java.model
+pl.java.view
